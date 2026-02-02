@@ -19,7 +19,7 @@
 
 ### 📝 Curriculum
 
-1. [**JDBC 이해**]https://mxxikr.github.io/posts/spring-db-jdbc-basics/)
+1. [**JDBC 이해**](https://mxxikr.github.io/posts/spring-db-jdbc-basics/)
     * JDBC 표준 인터페이스의 이해와 H2 데이터베이스 설정
     * `DriverManager`를 이용한 데이터베이스 연결 획득 및 CRUD(등록, 조회, 수정, 삭제) 기능 개발
 
