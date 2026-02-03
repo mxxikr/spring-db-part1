@@ -35,7 +35,8 @@
     * 계좌 이체 비즈니스 로직을 통한 트랜잭션 적용 및 원자성 보장 테스트
 
 
-4. **스프링과 문제 해결 - 트랜잭션**    - 트랜잭션 추상화(`PlatformTransactionManager`)와 트랜잭션 동기화 매니저의 역할
+4. [**스프링과 문제 해결 - 트랜잭션**](https://mxxikr.github.io/posts/spring-db-transaction-problem-solving)
+    - 트랜잭션 추상화(`PlatformTransactionManager`)와 트랜잭션 동기화 매니저의 역할
     * 트랜잭션 템플릿을 활용한 반복 코드 제거 및 트랜잭션 AOP(`@Transactional`) 적용
     * 스프링 부트의 자동 리소스 등록과 트랜잭션 관리의 편리함 체험
 
