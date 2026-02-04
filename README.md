@@ -41,13 +41,13 @@
     * 스프링 부트의 자동 리소스 등록과 트랜잭션 관리의 편리함 체험
 
 
-5. **자바 예외 이해**
+5. [**자바 예외 이해**](https://mxxikr.github.io/posts/spring-db-java-exception/)
     * 자바 예외 계층(Throwable, Error, Exception) 구조 파악
     * 체크 예외(Checked Exception)와 언체크 예외(Unchecked/Runtime Exception)의 차이 및 활용 원칙
     * 예외 전환 시 스택 트레이스(Stack Trace) 유지의 중요성 실습
 
 
-6. **스프링과 문제 해결 - 예외 처리, 반복**
+6. [**스프링과 문제 해결 - 예외 처리, 반복**](https://mxxikr.github.io/posts/spring-db-exception-problem-solving/)
     * 체크 예외의 런타임 예외 변환 전략 및 인터페이스 의존 설계
     * 스프링 데이터 접근 예외 추상화(`DataAccessException`)와 `SQLExceptionTranslator` 활용
     * `JdbcTemplate` 도입을 통한 JDBC 반복 문제 해결(커넥션 동기화, 예외 변환 자동화)
